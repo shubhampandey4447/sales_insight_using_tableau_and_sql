@@ -1,0 +1,1 @@
+Sales Insight Tableau visualizes sales data to uncover trends and performance metrics. It integrates with databases to create interactive dashboards, showing key insights like sales growth, regional performance, and top products. Users can explore data dynamically, making informed decisions based on clear, actionable visuals.
