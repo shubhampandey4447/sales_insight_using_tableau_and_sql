@@ -1,0 +1,1 @@
+A sales insight database stores and organizes sales data to support analysis and reporting. It includes tables for transactions, customers, date , markets and products. By structuring data with relationships and using queries, it provides insights into sales trends, performance, and key metrics for informed decision-making.
