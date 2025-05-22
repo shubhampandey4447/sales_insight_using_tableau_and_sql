@@ -1,6 +1,6 @@
 # Sales Insight Dashboard using SQL and Tableau
 
-This project was developed by **Shubham Pandey** and **Sahil** as part of our 7th semester Minor Project at SRM IST NCR Campus.
+This project was developed by **Shubham Pandey** and **Sahil Tripathi** as part of our 7th semester Minor Project at SRM IST NCR Campus.
 
 ## Overview
 
@@ -35,4 +35,4 @@ As part of the team, I:
 4. Use the dashboard to interact with filters and views
 
 ## Credits
-Created with Sahil during our academic minor project.
+Created with Sahil Tripathi during our academic minor project.
