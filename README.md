@@ -1,6 +1,6 @@
 # Sales Insight Dashboard using SQL and Tableau
 
-This project was developed by **Shubham Pandey** and **Sahil Tripathi** as part of our 7th semester Minor Project at SRM IST NCR Campus.
+This project was developed by **me** and **Sahil Tripathi** as part of our 7th semester Minor Project.
 
 ## Overview
 
@@ -16,10 +16,6 @@ The goal of this project is to analyze sales data to uncover actionable business
 - Region-wise and Segment-wise analysis
 - Top products by profit and quantity
 - Return impact and performance KPIs
-
-## Dashboard Preview
-
-> Coming soon: Will be uploaded to Tableau Public.
 
 ## My Role
 
